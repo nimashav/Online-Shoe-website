@@ -1,0 +1,36 @@
+.about-us {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: bisque;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+.history-content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 40px;
+  font-weight: 500;
+}
+
+.history-text {
+  flex: 1;
+  margin-right: 20px;
+  font-weight: 500;
+}
+
+.history-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.mission, .values {
+  text-align: center;
+  font-weight: 500;
+}
+

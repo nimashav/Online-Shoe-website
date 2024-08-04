@@ -1,0 +1,26 @@
+.welcome-message {
+  text-align: center;
+  margin: 20px 0;
+  padding: 10px;
+  background-color: #f8f8f8;
+  border-radius: 8px;
+}
+
+.welcome-message h2 {
+  margin-bottom: 5px;
+  font-size: 24px;
+  color: #333;
+}
+
+.welcomemsg{
+  margin-top: 10px;
+  text-align: center;
+}
+
+.Himsg{
+  border: 1px solid rgb(56, 8, 8);
+  font-weight: 700;
+  border-radius: 5px;
+  padding: 2px;
+  margin: 2px;
+}
